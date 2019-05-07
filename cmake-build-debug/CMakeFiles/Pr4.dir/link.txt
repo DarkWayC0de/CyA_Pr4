@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pr4.dir/Block.cpp.o CMakeFiles/Pr4.dir/main.cpp.o CMakeFiles/Pr4.dir/Row.cpp.o CMakeFiles/Pr4.dir/Wall.cpp.o  -o Pr4 

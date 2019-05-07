@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkwaycode/Escritorio/Cya/Pr4/Block.h
+iostream
+-
+
+/home/darkwaycode/Escritorio/Cya/Pr4/Row.h
+vector
+-
+Block.h
+/home/darkwaycode/Escritorio/Cya/Pr4/Block.h
+
+/home/darkwaycode/Escritorio/Cya/Pr4/Wall.h
+Row.h
+/home/darkwaycode/Escritorio/Cya/Pr4/Row.h
+
+/home/darkwaycode/Escritorio/Cya/Pr4/main.cpp
+iostream
+-
+Block.h
+/home/darkwaycode/Escritorio/Cya/Pr4/Block.h
+Row.h
+/home/darkwaycode/Escritorio/Cya/Pr4/Row.h
+Wall.h
+/home/darkwaycode/Escritorio/Cya/Pr4/Wall.h
+ctime
+-
+
